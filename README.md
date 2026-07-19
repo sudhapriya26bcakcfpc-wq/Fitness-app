@@ -1,7 +1,3 @@
-Here's a clean and professional **README** you can paste into your **Figma project** for your fitness app.
-
----
-
 # 📱 Pulse – Fitness & Wellness App
 
 ## Overview
