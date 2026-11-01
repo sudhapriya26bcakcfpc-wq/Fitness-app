@@ -3,7 +3,10 @@
 **Design Link :** https://www.figma.com/design/l4T7ZgkfibQra0X8USArEe/Mood-Board-App?node-id=0-1&p=f&t=mwRUd657BlvtPfBE-0
 
 
+
+
 **Prototype Link :** https://www.figma.com/proto/l4T7ZgkfibQra0X8USArEe/Mood-Board-App?node-id=0-1&t=mwRUd657BlvtPfBE-1
+
 
 
 # 💚💪 Fitness Pulse - Mood Board App
@@ -107,6 +110,8 @@ To design a clean, attractive, and user-friendly fitness application that motiva
 
 💚 **Stay Healthy • Stay Active • Stay Strong**
 
+
+---
 
 **Developed By** 
 
