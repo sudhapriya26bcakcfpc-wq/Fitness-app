@@ -2,6 +2,13 @@
 
 Welcome to **Pulse**, a modern Fitness & Nutrition mobile app designed in **Figma**.
 
+
+<img width="1502" height="2342" alt="Fitness App" src="https://github.com/user-attachments/assets/c0c7e33f-a4e7-4ebb-8c38-a5eb17a21e64" />
+
+
+
+
+
 🌟 **Build healthier habits, one day at a time!**
 
 ---
